@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EkzS9FSjr5wSDuBcLVnIKh2S85vBwJzdiRXiVNhKNSpLEsye7IvLc8rDHb3FMx9rIaeqJbej8tvD/f0EtQDZwg==",
+  "dgSpecHash": "RSMRtf5UEZviXvZACi773qTJ/PcwTo31jZvKWit4p1flTpLdDB3vMgmaWwsL1NKqd+TYkbG1FjI9+A6p3XUeVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\power\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\power\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

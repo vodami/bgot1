@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj": {}
+    "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj": {
+    "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
         "projectName": "BGoTWebApplication",
-        "projectPath": "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
+        "projectPath": "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\BGoTWebApplication.csproj",
         "packagesPath": "C:\\Users\\power\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\power\\source\\repos\\BGoTWebApplication\\BGoTWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\power\\Documents\\GitHub\\bgot\\BGoTWebApplication\\BGoTWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\power\\AppData\\Roaming\\NuGet\\NuGet.Config",
